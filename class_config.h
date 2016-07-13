@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Strings.h"
+#include <string>
 
 using namespace std;
 
@@ -7,4 +7,4 @@ class class_config {
 
  public: class_config();
   
-}
+};

@@ -1,12 +1,13 @@
 #include <iostream>
-#include "strings.h"
+#include <string>
 #include "class_config.h"
 
 using namespace std;
 
 
-class_config (){
+class_config::class_config ()
+{
 
-  cout<< "Welcome. System configuring..."
+  cout<< "Welcome. System configuring...";
   
 }
