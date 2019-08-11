@@ -8,6 +8,6 @@ using namespace std;
 class_config::class_config ()
 {
 
-  cout<< "Welcome. System configuring...";
+  cout << "Welcome. System configuring...";
   
 }

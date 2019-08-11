@@ -7,9 +7,9 @@ using namespace std;
 int main()
 {
 
-  // cout << "Hello world!" << endl;
-
+  cout << "Hello world!" << endl;
   class_config ob1;
   
   return 0;
+
 }
